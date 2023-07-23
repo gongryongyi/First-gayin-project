@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77f705e9-69f7-49be-945e-b6aec404ebfd" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First-gayin-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/StudentInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/himdelda/section01/project/StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/himdelda/section01/project/StudentInformation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
@@ -53,5 +51,16 @@
       <updated>1689923680123</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/himdelda/section01/project/AttendanceMenu.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
